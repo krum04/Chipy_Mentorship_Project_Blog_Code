@@ -4,4 +4,5 @@ Check out the blog here!
 
 Blog 1: https://medium.com/@krum04/python-time-to-get-serious-5dbf37fd6f7e
 
-Blog 2:
+Blog 2: https://medium.com/@krum04/from-napkin-sketch-to-something-tangible-b7a183d26e2
+
